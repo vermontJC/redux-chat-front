@@ -19,7 +19,7 @@ and then
 npm start
 ```
 
-Once backend is up and running, just navigate to the desired sample source folder, for example, start from the beginning:
+Once backend is up and running, just navigate to the desired sample source folder,for example, start from the beginning:
 ```
 .\redux-chat-front\01_ES6\00_start\
 ```
@@ -31,6 +31,7 @@ once we have all the dependencies downloaded, just launch it:
 ```
 npm start
 ```
+
 
 # Contents
 
